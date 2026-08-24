@@ -1,0 +1,14 @@
+cython
+einops
+fvcore
+imgaug
+matplotlib
+numpy
+opencv-python
+pandas
+Pillow
+pycocotools
+scikit-image
+scipy
+timm
+transformers

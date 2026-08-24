@@ -1,0 +1,36 @@
+# Training outputs and model files
+outputs/
+output*/
+checkpoint*.pth
+*.pth
+*.bin
+*.safetensors
+*.msgpack
+
+# Dataset images are stored outside version control
+data/
+
+# Logs
+*.log
+nohup.out
+
+# Python and native build products
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+*.so
+*.o
+build/
+dist/
+.pytest_cache/
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated visualizations
+test_output/
+draw/
