@@ -237,12 +237,6 @@ tokenizer directory for offline training.
 | Attention heads | 8 |
 | Visual feature levels | 4 |
 | Decoder layers | 4 |
-| Object queries | 10 |
-| Reported hardware | 4 × RTX 3090 |
-
-The paper does not report batch size. The code therefore keeps it as an
-explicit per-process option with a default of 1. Paper-declared settings are
-validated before model construction; conflicting overrides stop with an error.
 
 ## 🔍 Evaluation
 
