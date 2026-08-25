@@ -6,7 +6,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.7-3776AB?logo=python&logoColor=white)](https://www.python.org/)[![PyTorch](https://img.shields.io/badge/PyTorch-1.8.1-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)[![Task](https://img.shields.io/badge/Task-Remote%20Sensing%20Visual%20Grounding-2A9D8F)](#overview)[![Method](https://img.shields.io/badge/Method-GSBI-7B61FF)](#geometry-aware-spatial-bias-injection)[![License](https://img.shields.io/badge/License-Apache%202.0-D22128.svg)](LICENSE)
 
-[Method](#method)   [Results](#results)   [Installation](#installation)   [Data](#data-preparation)   [Training](#training)   [Evaluation](#evaluation)
+[Method](#method)    [Results](#results)    [Installation](#installation)    [Data](#data-preparation)    [Training](#training)    [Evaluation](#evaluation)
 
 **Official PyTorch implementation of _GADAN: Text-Conditioned Coordinate Bias for Remote Sensing Visual Grounding_.**
 
